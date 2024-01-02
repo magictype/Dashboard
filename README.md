@@ -8,5 +8,5 @@ Big fat and wide display typeface that is designed for the dramatic and humorous
 As a first thought, we do expect a geometric/ digital typeface for any kind of high tech action subjects these days. But the characters in this typeface are set to be humorously bold yet high tech enough to be among the big data. Most of the glyphs in this font family have organically adopted shapes from the primary geometric structure.
 
 ## Licence
-Dashboard is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/dashboard/blob/master/OFL.txt)
+Dashboard is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/dashboard/blob/master/OFL.txt)
 
